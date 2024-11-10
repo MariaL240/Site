@@ -9,13 +9,13 @@
 /* Estilo para o body */
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(157, 227, 237) ! important;
+    background-color:white ! important;
     color: white ! important;
 }
 
 /* Estilo para o cabeçalho */
 header {
-    background-color:white! important;
+    background-color:rgb(157, 227, 237) ! important;
     color:black! important;
     padding: 20px;
     text-align: center;
@@ -74,7 +74,7 @@ main {
 
 /* Estilo para o rodapé */
 footer {
-    background-color:rgb(157, 227, 237)  ! important;
+    background-color:white ! important;
     color: white ! important;
     text-align: center;
     padding: 10px;
