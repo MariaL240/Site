@@ -74,7 +74,7 @@ main {
 
 /* Estilo para o rodapé */
 footer {
-    background-color:white ! important;
+    background-color:rgb(157, 227, 237)! important;
     color: white ! important;
     text-align: center;
     padding: 10px;
